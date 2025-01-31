@@ -40,7 +40,7 @@ The API is built using **Express.js**, with **CORS enabled**, and timestamps han
 
 #### Example Usage:
 
-**Endpoint URL**: https://hng-0-fu91.onrender.com/ ooo
+**Endpoint URL**: https://hng-0-task.vercel.app/
 
 **Response**:
 
@@ -66,4 +66,4 @@ To Hire a Nodejs Developer, use this: https://hng.tech/hire/nodejs-developers
 
 ### Deployment
 
-This API is publicly deployed at: https://hng-0-fu91.onrender.com/ oooo
+This API is publicly deployed at: https://hng-0-task.vercel.app/
