@@ -40,7 +40,7 @@ The API is built using **Express.js**, with **CORS enabled**, and timestamps han
 
 #### Example Usage:
 
-**Endpoint URL**: https://hng-0-fu91.onrender.com/  ooo
+**Endpoint URL**: https://hng-0-fu91.onrender.com/ ooo
 
 **Response**:
 
