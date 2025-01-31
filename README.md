@@ -48,7 +48,7 @@ The API is built using **Express.js**, with **CORS enabled**, and timestamps han
 {
   "email": "sakariyauabdullateef993@gmail.com",
   "current_datetime": "2025-01-31T15:30:51Z",
-  "github_url": "https://github.com/calculus-guy/HNG_0_TASK.git"
+  "github_url": "https://github.com/calculus-guy/HNG_0_TASK"
 }
 ```
 
