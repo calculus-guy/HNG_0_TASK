@@ -13,7 +13,7 @@ app.get('/api', (req, res) => {
     const responseData = {
         email: process.env.EMAIL,
         current_datetime: moment().toISOString(),
-        github_url: process.env.GITHUB_URL
+        github_url: "https://github.com/calculus-guy/HNG_0_TASK"
     };
 
     res.setHeader('Content-Type', 'application/json');
